@@ -32,6 +32,16 @@ export default function Contact() {
                 https://gloriamkardongmd.com
               </a>
             </p>
+            <p className="text-xl font-semibold text-purple-700">
+              <a
+                href="https://gloriamkardongmd.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-purple-900"
+              >
+                https://gloriamkardongmd.com
+              </a>
+            </p>
           </div>
         </div>
       </div>
