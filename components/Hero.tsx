@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen">
       <Image
-        src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-1.jpg?raw=true"
+        src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-1.jpg?raw=true"
         alt="Medical professional"
         layout="fill"
         objectFit="cover"
