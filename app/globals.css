@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  font-family: "Comfortaa", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+header {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: normal;
+}
+
+.menu-text {
+  font-size: 16px;
+  line-height: 20px;
+}
+
