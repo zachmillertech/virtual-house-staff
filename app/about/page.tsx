@@ -13,7 +13,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div>
             <Image
-              src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-1.jpg?raw=true"
+              src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-1.jpg?raw=true"
               alt="Dr. Kardong"
               width={400}
               height={300}
