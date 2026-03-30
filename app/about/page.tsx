@@ -48,7 +48,7 @@ export default function About() {
           </div>
           <div>
             <Image
-              src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-2.jpg?raw=true"
+              src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-2.jpg?raw=true"
               alt="Virtual mental health services"
               width={400}
               height={300}
@@ -60,7 +60,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div>
             <Image
-              src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-3.jpg?raw=true"
+              src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-3.jpg?raw=true"
               alt="Flexible scheduling"
               width={400}
               height={300}
@@ -93,7 +93,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div>
             <Image
-              src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-4.jpg?raw=true"
+              src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-4.jpg?raw=true"
               alt="Dr. Kardong's office"
               width={400}
               height={300}
@@ -102,7 +102,7 @@ export default function About() {
           </div>
           <div>
             <Image
-              src="https://github.com/zachmillertech/virtual-forensic-psychiatrist/blob/main/about-5.jpg?raw=true"
+              src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-5.jpg?raw=true"
               alt="Virtual consultation"
               width={400}
               height={300}
