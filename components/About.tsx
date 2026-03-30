@@ -7,7 +7,16 @@ export default function About() {
         <h2 className="text-3xl font-bold text-center text-purple-600 mb-12">About Gloria M Kardong MD DFAPA</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
           <div>
-            <Image src="https://github.com/zachmillertech/virtual-house-staff/blob/cae05fca15f025f9958c7180812724b3198261fa/dr-kardong.jpg" alt="Dr. Gloria M Kardong" width={400} height={400} className="rounded-lg" unoptimized />
+
+            <img 
+  src="https://zachmillertech.github.io/virtual-house-staff/dr-kardong.jpg" 
+  alt="Dr. Gloria M Kardong" 
+  width="400" 
+  height="400" 
+  className="rounded-lg" 
+/>
+
+            
           </div>
           <div>
             <p className="text-lg mb-4">
