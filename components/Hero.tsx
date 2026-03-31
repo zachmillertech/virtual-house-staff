@@ -7,7 +7,7 @@ export default function Hero() {
       <Image
         src="https://github.com/zachmillertech/virtual-house-staff/blob/main/about-1.jpg?raw=true"
         alt="Medical professional"
-        layout="fill"
+        layout="fill"e
         objectFit="cover"
       />
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center text-white text-center">
@@ -16,7 +16,7 @@ export default function Hero() {
           <br />
           For House Staff
         </h1>
-        <p className="text-xl md:text-2xl mb-8">Gloria M Kardong MD DFAPA</p>
+        <p className="text-xl md:text-2xl mb-8">Gloria M Kardong MD, DLFAPA, DABPN</p>
         <Link href="/contact" className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
           Contact
         </Link>
