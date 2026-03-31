@@ -9,7 +9,7 @@ export default function About() {
           <div>
 
             <img 
-  src="https://zachmillertech.github.io/virtual-house-staff/dr-kardong.jpg" 
+  src="https://github.com/zachmillertech/virtual-house-staff/blob/main/dr-kardong.jpg?raw=true" 
   alt="Dr. Gloria M Kardong" 
   width="400" 
   height="400" 
